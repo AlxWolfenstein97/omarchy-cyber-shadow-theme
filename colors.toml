@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Mekacity pack — scarf red + platform cyan on void black
+accent = "#C41E26"
+selection = "#2A0C10"
+muted = "#5A3A42"
+
+background = "#06080A"
+dark_background = "#040506"
+darker_background = "#020304"
+lighter_background = "#14181C"
+
+foreground = "#E8E6E2"
+dark_foreground = "#7A6E6A"
+light_foreground = "#C8C0B8"
+bright_foreground = "#FFFFFF"
+
+hyprland_active_border = "rgba(C41E26ee) rgba(00C8E0ee) 45deg"
+hyprland_inactive_border = "rgba(2A0C10aa)"
+
+red = "#C41E26"
+yellow = "#E8B820"
+orange = "#E06020"
+green = "#3AAA4A"
+cyan = "#00C8E0"
+blue = "#3A6ABA"
+magenta = "#C45A8A"
+brown = "#6B3A2A"
+
+bright_red = "#E84850"
+bright_yellow = "#F0D040"
+bright_green = "#5ACC6A"
+bright_cyan = "#66E0F0"
+bright_blue = "#5A8ABA"
+bright_magenta = "#E080A8"
