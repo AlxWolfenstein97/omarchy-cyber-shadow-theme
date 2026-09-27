@@ -8,8 +8,8 @@ thought some might want bits from the game anyway:
 
 What if your desktop matched that void-black pixel night — scarf red on the
 accents, platform cyan on the borders — instead of another flat dark mode that
-could belong to anyone? Hyprland’s active border runs the same dual-accent trick
-as the asphalt night pack, the HEV suit, Galuga, and Counter-Strike:
+could belong to anyone? Hyprland’s active border runs the same dual-accent trick as
+Asphalt, HEV, Galuga, CS, Doom 2016, Eternal, Caged, KI, Rising, Stanley, SF6, T2D & USFIV:
 **scarf red → platform cyan** at 45°.
 
 Ninja-action theme for [Omarchy](https://omarchy.org/). Inspired by the look of
